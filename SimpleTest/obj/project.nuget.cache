@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xzhMaXNDVfk=",
+  "success": true,
+  "projectFilePath": "C:\\TestProjects\\SimpleTest\\SimpleTest\\SimpleTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victor.Kovalchuk\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\Victor.Kovalchuk\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\Victor.Kovalchuk\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.1-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}

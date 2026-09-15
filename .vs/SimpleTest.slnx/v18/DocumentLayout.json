@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TestProjects\\SimpleTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B12BA49E-533A-4587-A757-79D6BC29430D}|NewFolder1{B12BA49E-533A-4587-A757-79D6BC29430D}|C:\\TestProjects\\SimpleTest\\deployment.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{B12BA49E-533A-4587-A757-79D6BC29430D}|NewFolder1{B12BA49E-533A-4587-A757-79D6BC29430D}|solutionrelative:deployment.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055C321B-573C-A050-BA38-61A0D143CAFF}|SimpleTest\\SimpleTest.csproj|c:\\testprojects\\simpletest\\simpletest\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055C321B-573C-A050-BA38-61A0D143CAFF}|SimpleTest\\SimpleTest.csproj|solutionrelative:simpletest\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055C321B-573C-A050-BA38-61A0D143CAFF}|SimpleTest\\SimpleTest.csproj|c:\\testprojects\\simpletest\\simpletest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055C321B-573C-A050-BA38-61A0D143CAFF}|SimpleTest\\SimpleTest.csproj|solutionrelative:simpletest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055C321B-573C-A050-BA38-61A0D143CAFF}|SimpleTest\\SimpleTest.csproj|c:\\testprojects\\simpletest\\simpletest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{055C321B-573C-A050-BA38-61A0D143CAFF}|SimpleTest\\SimpleTest.csproj|solutionrelative:simpletest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055C321B-573C-A050-BA38-61A0D143CAFF}|SimpleTest\\SimpleTest.csproj|c:\\testprojects\\simpletest\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{055C321B-573C-A050-BA38-61A0D143CAFF}|SimpleTest\\SimpleTest.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055C321B-573C-A050-BA38-61A0D143CAFF}|SimpleTest\\SimpleTest.csproj|c:\\testprojects\\simpletest\\simpletest\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055C321B-573C-A050-BA38-61A0D143CAFF}|SimpleTest\\SimpleTest.csproj|solutionrelative:simpletest\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055C321B-573C-A050-BA38-61A0D143CAFF}|SimpleTest\\SimpleTest.csproj|c:\\testprojects\\simpletest\\simpletest\\simpletest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{055C321B-573C-A050-BA38-61A0D143CAFF}|SimpleTest\\SimpleTest.csproj|solutionrelative:simpletest\\simpletest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055C321B-573C-A050-BA38-61A0D143CAFF}|SimpleTest\\SimpleTest.csproj|c:\\testprojects\\simpletest\\simpletest\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{055C321B-573C-A050-BA38-61A0D143CAFF}|SimpleTest\\SimpleTest.csproj|solutionrelative:simpletest\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "deployment.yaml",
+              "DocumentMoniker": "C:\\TestProjects\\SimpleTest\\deployment.yaml",
+              "RelativeDocumentMoniker": "deployment.yaml",
+              "ToolTip": "C:\\TestProjects\\SimpleTest\\deployment.yaml",
+              "RelativeToolTip": "deployment.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-09-14T18:46:24.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TestProjects\\SimpleTest\\SimpleTest\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleTest\\Program.cs",
+              "ToolTip": "C:\\TestProjects\\SimpleTest\\SimpleTest\\Program.cs",
+              "RelativeToolTip": "SimpleTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T12:32:34.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\TestProjects\\SimpleTest\\SimpleTest\\appsettings.json",
+              "RelativeDocumentMoniker": "SimpleTest\\appsettings.json",
+              "ToolTip": "C:\\TestProjects\\SimpleTest\\SimpleTest\\appsettings.json",
+              "RelativeToolTip": "SimpleTest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-13T12:32:29.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\TestProjects\\SimpleTest\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\TestProjects\\SimpleTest\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-13T12:32:21.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\TestProjects\\SimpleTest\\SimpleTest\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SimpleTest\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\TestProjects\\SimpleTest\\SimpleTest\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SimpleTest\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T12:31:58.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\TestProjects\\SimpleTest\\SimpleTest\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "SimpleTest\\WeatherForecast.cs",
+              "ToolTip": "C:\\TestProjects\\SimpleTest\\SimpleTest\\WeatherForecast.cs",
+              "RelativeToolTip": "SimpleTest\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T12:31:54.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimpleTest.http",
+              "DocumentMoniker": "C:\\TestProjects\\SimpleTest\\SimpleTest\\SimpleTest.http",
+              "RelativeDocumentMoniker": "SimpleTest\\SimpleTest.http",
+              "ToolTip": "C:\\TestProjects\\SimpleTest\\SimpleTest\\SimpleTest.http",
+              "RelativeToolTip": "SimpleTest\\SimpleTest.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-09-13T12:31:48.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\TestProjects\\SimpleTest\\SimpleTest\\Dockerfile",
+              "RelativeDocumentMoniker": "SimpleTest\\Dockerfile",
+              "ToolTip": "C:\\TestProjects\\SimpleTest\\SimpleTest\\Dockerfile",
+              "RelativeToolTip": "SimpleTest\\Dockerfile",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-13T12:31:28.995Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

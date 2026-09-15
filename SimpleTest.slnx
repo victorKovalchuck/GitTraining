@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/k8s/">
+    <File Path="deployment.yaml" />
+  </Folder>
+  <Project Path="SimpleTest/SimpleTest.csproj" />
+</Solution>
