@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Office hours: 9-5
 blue
-=======
-blue
 green
->>>>>>> 336646b (Added green)
